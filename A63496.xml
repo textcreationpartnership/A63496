@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true copy of the petition of the centlewomen, [sic] and tradesmens-wives in and about the city of London Delivered, to the Honourable, the knights, citizens, and burgesses, of the House of Commons in Parliament, the 4th. of February, 1641. Together, with the reasons why their sex ought thus to petition, as well as the men; and the manner how both their petition and reasons was delivered. Likewise the answer which the honourable assembly sent to them by Mr. Pym, as they stood at the House-doore. Whereunto is added the prophesie of old Sybilla.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63496</idno>
+            <idno type="STC">Wing T2657A</idno>
+            <idno type="STC">ESTC R222532</idno>
+            <idno type="EEBO-CITATION">99833695</idno>
+            <idno type="PROQUEST">99833695</idno>
+            <idno type="VID">38173</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63496)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38173)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2220:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true copy of the petition of the centlewomen, [sic] and tradesmens-wives in and about the city of London Delivered, to the Honourable, the knights, citizens, and burgesses, of the House of Commons in Parliament, the 4th. of February, 1641. Together, with the reasons why their sex ought thus to petition, as well as the men; and the manner how both their petition and reasons was delivered. Likewise the answer which the honourable assembly sent to them by Mr. Pym, as they stood at the House-doore. Whereunto is added the prophesie of old Sybilla.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Iohn Bull, dwelling in Grubstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Guildhall Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38173:1"/>
+            <!-- PDF PAGE 43 -->
+            <pb facs="tcp:38173:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 43 -->
+            <p>A TRUE COPY OF THE PETITION OF THE CENTLEWOMEN, and Tradeſmens-Wives in and about the City of LONDON.</p>
+            <p>Delivered, To the Honourable, the <hi>KNIGHTS, Citizens,</hi> and <hi>Burgeſſes,</hi> of the Houſe of COM<g ref="char:EOLhyphen"/>MONS in Parliament, the 4<hi rend="sup">th</hi>, of <hi>February,</hi> 1641.</p>
+            <p>Together, With the <hi>Reaſons</hi> why their Sex ought thus to Peti<g ref="char:EOLhyphen"/>tion, as well as the Men; and the manner how both their Petition and Reaſons was delivered.</p>
+            <p>Likewiſe the Anſwer which the Honourable Aſſem<g ref="char:EOLhyphen"/>bly ſent to them by Mr. <hi>Pym,</hi> as they ſtood at the Houſe-doore.</p>
+            <p>Whereunto is added the Propheſie of old <hi>Sybilla.</hi>
+            </p>
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>Iohn Bull,</hi> dwelling in <hi>Grubſtreet.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition_to_Parliament">
+            <pb facs="tcp:38173:2"/>
+            <!-- PDF PAGE 44 -->
+            <pb n="1" facs="tcp:38173:2"/>
+            <!-- PDF PAGE 44 -->
+            <head>TO THE HONOVRABLE Knights, Citizens, and Burgeſſes, of the Houſe of COMMONS aſſem<g ref="char:EOLhyphen"/>bled in PARLIAMENT.</head>
+            <head type="sub">The moſt humble PETITION of the Gentlewomen, Tradeſ-mens-wives, and many others of the <hi>Femall Sex,</hi> all Inhabitants of the City of LONDON, and the Suburbs thereof.</head>
+            <opener>With loweſt ſubmiſſion ſhewing,</opener>
+            <p>THat we alſo with all thankfull humilty acknow<g ref="char:EOLhyphen"/>ledging the unwearied paines, care, and great charge, beſides hazatd of health and life, which you the noble Worthies of this Honourable and Renowned Aſſembly have undergone, for ſafe<g ref="char:EOLhyphen"/>tie both of <hi>Church</hi> and <hi>Common-wealth,</hi> for a long time al<g ref="char:EOLhyphen"/>ready paſt: for which not only we your humble Petitioners, and all well affected in this Kingdome, but alſo all other good Chriſtians are bound, now, and at all times, to acknowledge; yet notwithſtanding that many worthy deeds have been done by you, great danger and feare doe ſtill attend us, and will, as long as Popiſh Lords and Superſtitious Biſhops are ſuffered to have their Voice in the Houſe of Peeres, and that accurſed
+<pb n="2" facs="tcp:38173:3"/>
+               <!-- PDF PAGE 45 -->and abominable Idole of the <hi>Maſſe</hi> ſuffered in the Kingdome, and that Arch-enemy of our Proſperity and Reformation ly<g ref="char:EOLhyphen"/>eth in the Tower, yet not receiving his deſerved puniſhment.</p>
+            <p>All theſe under correction, gives us great cauſe to ſuſpect, that God is angry with us, and to be the chiefe cauſes, why your Pious endeavours for a further Reformation, proceedeth not with that ſucceſſe as you deſire, &amp; is moſt earneſtly praied for, of all that wiſh well to true Religion, and the flouriſh<g ref="char:EOLhyphen"/>ing both of King and Kingdome; the inſolencies of the Pa<g ref="char:EOLhyphen"/>piſts and their Abbettors, raiſeth a juſt feare and ſuſpition of ſowing ſedition, and breaking out into bloody perſecution in this Kingdome, as they have done in <hi>Ireland,</hi> the thoughts of which ſad and Barbarous events, maketh our tender hearts to melt within us, forcing us humbly to Petition to this Honou<g ref="char:EOLhyphen"/>rable Aſſembly, to make ſafe proviſion for your ſelves and us, before it be too late.</p>
+            <p>And whereas we, whoſe hearts have joyned cheerefully with all thoſe Petitions which have bin exhibited unto you in the behalfe of the purity of Religion, and the liberty of our Husbands perſons and eſtates, recounting our ſelves to have an intereſt in the common priviledges with them, doe with the ſame confidence aſſure our ſelves to finde the ſame gracious acceptance with you, for eaſing of thoſe greevances, which in regard of our fraile condition, do more neerely concerne us, &amp; do deeply terrifie our ſoules: our Domeſtical dangers with which this kingdom is ſo much diſtracted, eſpecially growing on us from thoſe trecherous and wicked attempts already are ſuch, as we find our ſelves to have as deep a ſhare as any other.</p>
+            <p>We cannot but tremble at the very thoughts of the horrid and hideous facts, which modeſty forbids us now to name, oc<g ref="char:EOLhyphen"/>caſioned by the bloody Wars in <hi>Germany,</hi> his Majeſties late Northern Army, how often did it affright our hearts, whileſt their violence began to breake out ſo furiouſly upon the per<g ref="char:EOLhyphen"/>ſons of thoſe, whoſe Husbands or Parents were not able to re<g ref="char:EOLhyphen"/>ſcue: we wiſh we had no cauſe to ſpeak of thoſe inſolencies, and ſavage vſage and unheard of rapes, exerciſed upon our Sex in <hi>Jreland,</hi> and have we not juſt cauſe to feare they will prove the forerunners of our r<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ine? except Almighty God by the wiſdom &amp; care of this <hi>Parliament</hi> be pleaſed to ſuccour us,
+<pb n="3" facs="tcp:38173:3"/>
+               <!-- PDF PAGE 45 -->our Husbands and Children, which are as deere and tender unto us, as the lives and bloud of our hearts, to ſee them mur<g ref="char:EOLhyphen"/>thered and mangled and cut in pieces before our eyes, to ſee our Children daſhed againſt the ſtones, and the Mothers milk mingled with the Infants bloud, running downe the ſtreets; to ſee our Houſes on flaming fire over our heads: Oh how dreadfull would this bee! wee thought it miſery enough (though nothing to that wee have iuſt cauſe to feare) but few yeares ſince for ſome of our Sex, by uniuſt diviſions from their boſom comforts, to be rendred in a manner Widdowes, and the children Fatherleſſe, Husbands were impriſoned from the Society of their Wives, even againſt the Lawes of God and Nature, and little Infants ſuffered in their Fathers baniſhments: thouſands of our deereſt friends have bin com<g ref="char:EOLhyphen"/>pelled to fly from Epiſcopall perſecutions into deſert places amongſt wilde Beaſts, there finding more favour then in their native ſoile, and in the midſt of all the ſorrowes, ſuch hath the pitty of the Prelates beene, that our cries could never enter into their eares or hearts, nor yet through multitudes of ob<g ref="char:EOLhyphen"/>ſtructions could never have acceſſe or come nigh to thoſe Royall mercies of our moſt gracious Soverrigne, which wee confidently hope, would have relieved us: but after all theſe preſſures ended, we humbly ſignifie, that our preſent feares are, that unleſſe the bloud-thirſty faction of the Papiſts and Prelates be hindred in their deſignes, our ſelves here in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> as well as they in <hi>Ireland,</hi> ſhall bee expoſed to that mi<g ref="char:EOLhyphen"/>ſery which is more intollerable then that which is already paſt, as namely to the rage not of men alone, but of Devils in<g ref="char:EOLhyphen"/>carnate, (as we may ſo ſay) beſides the thraldome of our ſoules and conſciences in matters concerning God, which of all things are moſt deare unto us.</p>
+            <p>Now the remembrance of all theſe fearefull accidents aforementioned, doe ſtrongly move us from the example of the Woman of <hi>Tekoa</hi> to fall ſubmiſſively at the feete of his Majeſty, our dread Soveraigne, and cry <hi>Helpe O King,</hi> helpe O yee the noble Worthies now ſitting in <hi>Parliament:</hi> And wee humbly beſeech you, that you will bee a meanes to his Majeſty and the Houſe of Peeres, that they will bee pleaſed to take our heart breaking grievances into timely
+<pb n="4" facs="tcp:38173:4"/>
+               <!-- PDF PAGE 46 -->conſideration, and to adde ſtrength and incouragement to your noble indeavours, and further that you would move his Majeſty with our humble requeſts, that hee would bee graciouſly pleaſed according to the example of the good King <hi>Aſa,</hi> to purge both the Court and Kingdome of that great Idolatrous ſervice of the Maſſe, which is tollerated in the Queenes Court, this ſinne (as wee conceive,) is able to draw downe a greater curſe upon the whole Kingdome, then all your noble and pious indeavours can prevent, which was the cauſe that the good and pious King <hi>Aſa</hi> would not ſuffer Idolatry in his owne Mother, whoſe example if it ſhall pleaſe his Majeſties gracious goodneſſe to follow, in putting downe Popery and Idolatry both in great and ſmall, in Court and in the Kingdome throughout, to ſubdue the Pa<g ref="char:EOLhyphen"/>piſts and their abetters, and by taking away the power of the Prelates, whoſe Government by long and wofull expe<g ref="char:EOLhyphen"/>rience wee have found to bee againſt the liberty of our con<g ref="char:EOLhyphen"/>ſcience and the freedome of the Goſpell, and the ſincere profeſſion and practiſe thereof, then ſhall our feares bee re<g ref="char:EOLhyphen"/>moved, and wee may expect that God will powre downe his bleſſings in aboundance both upon his Majeſty, and upon this Honourable Aſſembly, and upon the whole Land.</p>
+            <p>For which your new Petitioners ſhall pray affectionately.</p>
+            <div type="part">
+               <head>The Reaſons follow.</head>
+               <p>IT may bee thought ſtrange, and unbeſeeming our ſex to ſhew our ſelves by way of Petition to this Honourable Aſ<g ref="char:EOLhyphen"/>ſembly: but the matter being rightly conſidered, of the right and intereſt wee have in the Common and publique cauſe of the Church, it will, as wee conceive (under correction) bee found a duty commanded and required.</p>
+               <p>Firſt, Becauſe <hi>Chriſt</hi> hath purchaſed us at as deare a rate as hee hath done men, and therefore requireth the like obe<g ref="char:EOLhyphen"/>dience for the ſame mercy, as of men.</p>
+               <p>Secondly, Becauſe in the free enjoyning of <hi>Chriſt</hi> in his owne Lawes, and a flouriſhing eſtate of the Church and Common-wealth, conſiſteth the happineſſe of Women as well as Men.</p>
+               <p>
+                  <pb n="5" facs="tcp:38173:4"/>
+                  <!-- PDF PAGE 46 -->
+Thirdly, Becauſe Women are ſharers in the Common calamities that accompany both Church and Common<g ref="char:EOLhyphen"/>wealth, when oppreſſion is exerciſed over the Church or Kingdome wherein they live; and an unlimited power have beene given to Prelates to exerciſe authority over the Con<g ref="char:EOLhyphen"/>ſciences of Women, as well as Men; witneſſe Newgate, Smithfield, and other places of perſecution, wherein Wo<g ref="char:EOLhyphen"/>men as well as Men have felt the ſmart of their fury.</p>
+               <p>Neither are wee left without example in Scripture, for when the State of the Church, in the time of King <hi>Abaſue<g ref="char:EOLhyphen"/>rus</hi> was by the bloudy enemies thereof ſought to bee ut<g ref="char:EOLhyphen"/>terly deſtroyed, wee find that <hi>Eſter</hi> the Queene and her Maids faſted and prayed, and that <hi>Eſter</hi> petitioned to the King in the behalfe of the Church: and though ſhee enter<g ref="char:EOLhyphen"/>priſed this duty with the hazard of her owne life, being con<g ref="char:EOLhyphen"/>trary to the Law to appeare before the King before ſhe were ſent for, yet her love to the Church carried her thorow all difficulties, to the performance of that duty.</p>
+               <p>On which grounds wee are imboldned to preſent out humble Petition unto this Honourable Aſſembly, not weigh<g ref="char:EOLhyphen"/>ing the reproaches which may and are by many caſt upon us, who (not well weighing the premiſſes) ſcoffe and deride our good intent. Wee doe it not out of any ſelfe conceit, or pride of heart, as ſeeking to equall our ſelves with Men, either in Authority or wiſedome: But according to our places to diſcharge that duty wee ow to God, and the cauſe of the Church, as farre as lieth in us, following herein the example of the Men, which have gone in this duty before us.</p>
+            </div>
+         </div>
+         <div type="part">
+            <head>A Relation of the manner how it was delivered, with their Anſwer, ſent by Mr. <hi>Pym.</hi>
+            </head>
+            <p>
+               <hi>THe Petition with their Reaſons was delivered the fourth of</hi> Feb. 1641. <hi>by Miſtreſſe</hi> Anne Stagg <hi>a Gentlewoman and Brewers-wife, and many others with her of like rank
+<pb n="6" facs="tcp:38173:5"/>
+                  <!-- PDF PAGE 47 -->and quality, which when they had delivered it, after ſome time ſpent in reading of it, the Honourable Aſſembly ſent them an Anſwer by Maſter</hi> Pym, <hi>which was performed in this manner.</hi>
+            </p>
+            <p>
+               <hi>Maſter</hi> Pym <hi>came to the Commons doore, and called for the Women, and ſpake unto them in theſe words:</hi> Good Wo<g ref="char:EOLhyphen"/>men, your Petition and the Reaſons have beene read in the Houſe; and is very thankefully accepted of, and is come in a ſeaſonable time: You ſhall (<hi>God</hi> willing) receive from us all the ſatisfaction which wee can poſſibly give to your juſt and lawfull deſires. Wee intreat you to repaire to your Houſes, and turne your Petition which you have delivered here, into Prayers at home for us; for wee have beene, are, and ſhall bee (to our utmoſt power) ready to relieve you, your Husbands, and Children, and to performe the truſt com<g ref="char:EOLhyphen"/>mitted unto us, towards <hi>God,</hi> our King and Countrey, as becometh faithfull Chriſtians and Loyall Subjects.</p>
+         </div>
+         <div type="poem">
+            <head>The Propheſie of old <hi>Sybilla,</hi> Which ſecretly ſhee told <hi>Tom Milla.</hi>
+            </head>
+            <l>WHen <hi>Scotlands</hi> hundreth and ninth unconquered King,</l>
+            <l>The ſixteen hundred, thirty and ninth yeare,</l>
+            <l>Into his age of thirty nine ſhall Raigne,</l>
+            <l>Then ſhall the Papall overthrow appeare,</l>
+            <l>Which all the Arts of <hi>Europe</hi> ſhall admire:</l>
+            <l>For <hi>Scotland</hi> ſhall that bleſſed worke begin,</l>
+            <l>Then ſhall the Whore of <hi>Babell,</hi> wee had here,</l>
+            <l>Bee baniſht quite, which Biſhops did bring in.</l>
+            <l>Then then brave <hi>England</hi> which was led ſo blind,</l>
+            <l>By their perverſe Epiſcopapall pride,</l>
+            <l>And <hi>Irelands</hi> ſhameleſſe ſuperſtitious ſinne,</l>
+            <l>Shall hee ſuppreſt, who cruelly have cride;</l>
+            <l>So thatt, hat ſacred Propheteſſe <hi>Sybilla,</hi>
+            </l>
+            <l>Shall ſhortly come to paſſe, ſhee tels <hi>Tom Milla;</hi>
+            </l>
+            <l>And <hi>Tom</hi> tels mee, and I muſt tel't againe,</l>
+            <l>Through <hi>Scotland, England. Ireland, France</hi> and <hi>Spaine.</hi>
+            </l>
+            <trailer>FINIS,</trailer>
+            <pb facs="tcp:38173:5"/>
+            <!-- PDF PAGE 47 -->
+            <pb facs="tcp:38173:6"/>
+            <!-- PDF PAGE 48 -->
+         </div>
+      </body>
+   </text>
+</TEI>
